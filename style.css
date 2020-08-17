@@ -4,17 +4,22 @@
 
 body {
     background-color: yellowgreen;
+    text-align: center;
 }
 
 .section {
+    background-color: darkgray;
+}
+
+.skill-section {
     background-color: gray;
 }
 
 ul {
     position: relative;
     display: block;
-    text-align: center;
     list-style: none;
+    padding: 0%;
 }
 
 li {
