@@ -1,7 +1,3 @@
-#nav-list {
-    list-style: none;
-}
-
 .inline {
     display: inline-block;
 }
@@ -12,4 +8,15 @@ body {
 
 .section {
     background-color: gray;
+}
+
+ul {
+    position: relative;
+    display: block;
+    text-align: center;
+    list-style: none;
+}
+
+li {
+    width: auto;
 }
