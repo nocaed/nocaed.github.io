@@ -5,3 +5,11 @@
 .inline {
     display: inline-block;
 }
+
+body {
+    background-color: yellowgreen;
+}
+
+.section {
+    background-color: gray;
+}
