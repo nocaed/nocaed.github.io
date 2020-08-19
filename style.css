@@ -12,12 +12,15 @@ body {
     background-color: darkgray;
     width: 80%;
     margin: auto;
+    border-radius: 8px;
+    box-shadow: 5px 7px rgba(0, 0, 0, 60%);
 }
 
 .skill-section {
     background-color: gray;
     width: 80%;
     margin: auto;
+    border-radius: 25px;
 }
 
 .section-header {
