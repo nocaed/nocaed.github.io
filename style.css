@@ -8,11 +8,15 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.section {
-    background-color: darkgray;
+.rounded-box {
     width: 80%;
+    box-sizing: border-box;
     margin: auto;
     border-radius: 8px;
+}
+
+.section {
+    background-color: darkgray;
     border: 5px;
     border-color: black;
     border-style: solid;
@@ -20,9 +24,6 @@ body {
 
 .skill-section {
     background-color: gray;
-    width: 80%;
-    margin: auto;
-    border-radius: 25px;
 }
 
 .section-header {
@@ -31,11 +32,14 @@ body {
 
 #banner-message {
     font-size: 48px;
-    padding: 5px;
 }
 
 #current-tab {
     background-color: rgba(0, 255, 0, 25%);
+}
+
+#top-banner {
+    background-color: rgba(0, 0, 0, 10%);
 }
 
 ul {
