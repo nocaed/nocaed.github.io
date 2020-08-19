@@ -4,15 +4,32 @@
 
 body {
     background-color: yellowgreen;
-    text-align: center;
+    text-align: center; 
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .section {
     background-color: darkgray;
+    width: 80%;
+    margin: auto;
 }
 
 .skill-section {
     background-color: gray;
+    width: 80%;
+    margin: auto;
+}
+
+.section-header {
+    text-decoration: underline;
+}
+
+#banner-message {
+    font-size: 48px;
+}
+
+#current-tab {
+    background-color: rgba(0, 255, 0, 25%);
 }
 
 ul {
