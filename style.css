@@ -47,6 +47,7 @@ ul {
     display: block;
     list-style: none;
     padding: 0%;
+    padding-bottom: .4%;
 }
 
 li {
